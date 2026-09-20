@@ -140,7 +140,7 @@ For each query, the output includes:
 
 **Download PhonePe Marketplace Query Intent Analysis** 
 
-**PhonePe_Marketplace_Query_Intent_Analysis.xlsx** --> **(Refer Data Folder)**
+**Go to [Data PhonePe Marketplace Query Intent Analysis](Data/PhonePe_Marketplace_Query_Intent_Analysis.xlsx)** --> **(Refer Data Folder)**
 
 ### Prompt 2
 
