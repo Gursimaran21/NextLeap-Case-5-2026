@@ -140,7 +140,7 @@ For each query, the output includes:
 
 **Download PhonePe Marketplace Query Intent Analysis** 
 
-**PhonePe_Marketplace_Query_Intent_Analysis.xlsx** --> **Go to [Data Folder](Data)**
+**PhonePe_Marketplace_Query_Intent_Analysis.xlsx** --> **Go to [Data Folder](Data) or Go to [DATAREADME](Data/DATAREADME.md)**
 
 ### Prompt 2
 
@@ -173,7 +173,7 @@ Examples excluded:
 
 **Download the filtered PhonePe physical-goods query-list:** 
 
-**PhonePe_Physical_Good_Commercial_Queries.xlsx** --> **Go to [Data Folder](Data)**
+**PhonePe_Physical_Good_Commercial_Queries.xlsx** --> **Go to [Data Folder](Data) or Go to [DATAREADME](Data/DATAREADME.md)**
 
 ### Prompt 3
 
@@ -317,7 +317,7 @@ Done. I created both requested deliverables.
 
 **Download the completed** ```Case study Queries - Categorized.xlsx``` 
 
-**Case study Queries - Categorized.xlsx** --> **Go to [Data Folder](Data)**
+**Case study Queries - Categorized.xlsx** --> **Go to [Data Folder](Data) or Go to [DATAREADME](Data/DATAREADME.md)**
 
 ### Prompt 5
 
