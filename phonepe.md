@@ -140,7 +140,7 @@ For each query, the output includes:
 
 **Download PhonePe Marketplace Query Intent Analysis** 
 
-**Go to [Data PhonePe Marketplace Query Intent Analysis](Data/PhonePe_Marketplace_Query_Intent_Analysis.xlsx)** --> **(Refer Data Folder)**
+**PhonePe_Marketplace_Query_Intent_Analysis.xlsx** --> **Go to [Data Folder](Data)**
 
 ### Prompt 2
 
@@ -173,7 +173,7 @@ Examples excluded:
 
 **Download the filtered PhonePe physical-goods query-list:** 
 
-**PhonePe_Physical_Good_Commercial_Queries.xlsx** --> **(Refer Data Folder)**
+**PhonePe_Physical_Good_Commercial_Queries.xlsx** --> **Go to [Data Folder](Data)**
 
 ### Prompt 3
 
@@ -317,7 +317,7 @@ Done. I created both requested deliverables.
 
 **Download the completed** ```Case study Queries - Categorized.xlsx``` 
 
-**Case study Queries - Categorized.xlsx** --> **(Refer Data Folder)**
+**Case study Queries - Categorized.xlsx** --> **Go to [Data Folder](Data)**
 
 ### Prompt 5
 
@@ -383,9 +383,10 @@ Done. I created both requested deliverables.
 
 **Recommended Top-Level Navigation**
 
-## Go back to [README](README.md)
 For a PhonePe-style marketplace, these can be surfaced as:
 
 **Electronics & Gadgets → Home & Living → Fashion & Apparel → Beauty & Personal Care → Health & Wellness → Groceries & Foods → Pet Supplies → Baby & Kids → Sports & Outdoors → Books & Stationery → Toys, Games & Hobbies**
 
 This gives a relatively compact **11-category top-level navigation**, while the subcategories provide enough depth for search, browsing, and merchandising.
+
+## Go back to [README](README.md)
